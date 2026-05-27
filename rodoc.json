@@ -1,0 +1,4 @@
+{
+  "vectorstore_path": "/media/elson/IA/clude_code/workspace/docs/vectorstore",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2"
+}

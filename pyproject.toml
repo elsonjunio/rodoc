@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rodoc"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "markdown-it-py>=4.0",
+    "faiss-cpu",
+    "sentence-transformers",
+    "numpy",
+    "mcp",
+    "crawlee[playwright]",
+    "playwright",
+    "beautifulsoup4",
+    "markdownify",
+    "html2text",
+    "readability-lxml",
+    "lxml",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

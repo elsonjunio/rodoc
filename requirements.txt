@@ -1,0 +1,12 @@
+markdown-it-py==4.2.0
+faiss-cpu
+sentence-transformers
+numpy
+mcp
+crawlee[playwright] #1.7
+playwright
+beautifulsoup4
+markdownify
+html2text
+readability-lxml
+lxml
