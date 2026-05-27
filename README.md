@@ -56,7 +56,7 @@ When integrating the search service into an `opencode` configuration, you can de
   },
   "local-docs": {
         "type": "local",
-        "command": ["/media/elson/IA/clude_code/workspace/rodoc/run_mcp.sh"],
+        "command": ["/media/elson/IA/workspace/rodoc/run_mcp.sh"],
         "enabled": true
       }
  }
