@@ -1,4 +1,4 @@
 {
-  "vectorstore_path": "/media/elson/IA/clude_code/workspace/docs/vectorstore",
+  "vectorstore_path": "/media/elson/Auxiliar/elson/Workspace/Python/rodoc/doc/vectorstore",
   "embedding_model": "sentence-transformers/all-MiniLM-L6-v2"
 }

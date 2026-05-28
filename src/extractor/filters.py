@@ -9,7 +9,7 @@ IGNORED_FILES: frozenset[str] = frozenset({
     "package-lock.json", "yarn.lock", "pnpm-lock.yaml",
 })
 
-SUPPORTED_EXTENSIONS: frozenset[str] = frozenset({".md", ".mdx"})
+SUPPORTED_EXTENSIONS: frozenset[str] = frozenset({".md", ".mdx", ".txt"})
 
 
 def is_ignored_directory(path: Path) -> bool:
