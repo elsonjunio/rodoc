@@ -10,3 +10,4 @@ build/
 *.spec
 .env
 storage
+doc
